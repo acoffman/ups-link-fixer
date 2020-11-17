@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "MyChoice Tracking Link Bypass",
-  "version": "0.1",
+  "version": "0.2",
 
   "description": "Adds a context menu item that allows you to open UPS MyChoice email tracking links without having to login or go through the portal.",
 
